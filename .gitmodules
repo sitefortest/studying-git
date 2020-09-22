@@ -1,0 +1,3 @@
+[submodule "iniParser"]
+	path = iniParser
+	url = https://github.com/sitefortest/iniParser
